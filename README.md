@@ -1,4 +1,5 @@
 # Free TON on-chain Timer
+# MOVED TO https://github.com/tonred/onchain-timer
 ## Overview
 This timer consists of two contracts that work together, one written in Solidity, the other in low-level FunC. Solodity allowed for a simple user-friendly interface to control multiple timers, while FunC made it very economic Gas usage.
 ### Main features:
